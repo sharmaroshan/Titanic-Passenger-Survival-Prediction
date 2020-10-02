@@ -43,3 +43,16 @@ parch: The dataset defines family relations in this way...
 Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
+
+# Goal for this Project:
+Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+# This Notebook will show basic examples of:
+# Data Handling
+1) Importing Data with Pandas
+2) Cleaning Data
+3) Exploring Data through Visualizations with Matplotlib
+# Data Analysis
+Supervised Machine learning Techniques: + Logit Regression Model + Plotting results + Support Vector Machine (SVM) using 3 kernels + Basic Random Forest + Plotting results
+# Valuation of the Analysis
+ K-folds cross validation to valuate results locally
+ Output the results from the IPython Notebook to Kaggle
